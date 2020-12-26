@@ -1,0 +1,19 @@
+{
+  "name": "MediaPlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html src/index.ts src/**/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
+}
